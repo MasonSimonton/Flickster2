@@ -54,7 +54,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthough GIF
 
-<img src="movie" title = "walkthrough" width='' alt = "Video walkthrough"><br>
+<img src="Flickster2.gif" title = "walkthrough" width='' alt = "Video walkthrough"><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
