@@ -23,7 +23,7 @@ Flix Part 2
 
 
 
-<img src='Flickster2.gif' title='walkthrough' width='' alt='Video Walkthrough' />
+<img src='Flickster2.gif' title='walkthrough' alt='Video Walkthrough' />
 
 
 ### Notes
